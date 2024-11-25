@@ -1,0 +1,33 @@
+.body{
+    background-color: beige;
+    display: block;
+    margin: 8px;
+}
+h1{
+    text-align: center;
+    display: block;
+    font-weight: bold;
+}
+
+p{
+    display: block;
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+    color: green;
+    margin: 0 10px;
+}
+img{
+    display: block;
+    max-width: 100%;
+    margin: 30px auto;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    border-radius: 10px;
+}
+span{
+    text-align: center;
+    display: block;
+}
